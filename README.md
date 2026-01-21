@@ -4,7 +4,7 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 This project demonstrates core JavaScript concepts and basic game logic implementation in the browser.
 
 ## 🌐 Live Demo
-🔗 https://sandeepshahu.github.io/Rock-Paper-Scissor/
+🔗 https://sandeepshahu33.github.io/Rock-Paper-Scissor/
 
 ## 🛠️ Technologies Used
 - HTML
